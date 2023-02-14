@@ -1,2 +1,2 @@
-# PWSKILL_dataScience
-all assignments and projects
+# PWSKILL_dataScience course
+Here i put all my assignments of Ineuron-PhysicsWallah (PWSKILL) data science course
